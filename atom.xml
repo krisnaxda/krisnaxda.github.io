@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Sirkloud!</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://krisnaxda.xyz/"/>
+  <updated>2020-06-22T09:39:53.250Z</updated>
+  <id>http://krisnaxda.xyz/</id>
+  
+  <author>
+    <name>Krisna Amarta</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Rekomendasi Situs Penyedia Font Gratis Tanpa Khawatir Lisensi</title>
+    <link href="http://krisnaxda.xyz/situs-penyedia-font-gratis/"/>
+    <id>http://krisnaxda.xyz/situs-penyedia-font-gratis/</id>
+    <published>2020-06-22T09:37:26.000Z</published>
+    <updated>2020-06-22T09:39:53.250Z</updated>
+    
+    <content type="html"><![CDATA[<p>Jika kalian sering menggunakan font kustom yang diunduh dari internet, maka harus berhati-hati! Kalian harus memperhatikan lisensinya, jangan mentang-mentang ada tulisan gratis lalu bisa bebas digunakan.</p><a id="more"></a><p>Karena setiap font yang beredar di internet menggunakan lisensi yang berbeda-beda.</p><p>Berikut ini adalah jenis lisensi font yang harus teman-teman ketahui</p><ol><li><strong>Free for personal use</strong>, lisensi ini bagi saya sudah cukup jelas maksudnya, yaitu kita bebas menggunakan font hanya untuk penggunaan pribadi, contohnya digunakan untuk presentasi belajar dan tidak boleh digunakan untuk kegiatan komersil.</li></ol><ol start="2"><li><strong>Demo</strong>, lisensi ini berarti bahwa font tersebut hanya untuk percobaan untuk versi full dari font tersebut, font ini boleh digunakan untuk kegiatan personal namun tidak untuk kegiatan komersil.</li></ol><ol start="3"><li><strong>100% Free</strong>, lisensi ini berarti font yang diunduh benar-benar gratis dan bebas digunakan untuk apa saja, baik itu untuk penggunaan personal ataupun komersil.</li></ol><ol start="4"><li><strong>Donationware</strong>, lisensi ini berarti bahwa font tersebut boleh digunakan ketika pengguna sudah memberikan donasi kepada pemilik atau pembuat font.</li></ol><ol start="5"><li><strong>Open Font License</strong> atau biasa disingkat OFL, lisensi ini berarti bahwa font tersebut bersifat gratis dan terbuka, sama seperti lisensi <em>100% Free</em> namun bedanya kalian bisa bebas mengubah, mengkustom, maupun menyebarkan font ini.</li></ol><p>Sebenarnya masih ada jenis lisensi yang belum saya sebutkan diatas, kalian bisa melihat semuanya di <a href="#">Daftar Jenis Lisensi Font</a> .</p><p>Berikut ini adalah situs penyedia font gratis yang saya rekomendasikan,</p><h3 id="Google-Fonts"><a href="#Google-Fonts" class="headerlink" title="Google Fonts"></a>Google Fonts</h3><p><a href="https://fonts.google.com">Google Fonts</a> adalah situs penyedia font dengan lisensi OFL, di Google Fonts kalian bisa melihat tampilan dan membandingkan jenis-jenis font yang cocok untuk digunakan bersamaan.</p><p>Tampilan dari situs ini sangat simpel dan mudah digunakan, tidak ada iklan, dan juga informasi tentang lisensi fontnya juga jelas.</p><h3 id="Font-Squirrel"><a href="#Font-Squirrel" class="headerlink" title="Font Squirrel"></a>Font Squirrel</h3><p><a href="https://www.fontsquirrel.com/">Font Squirrel</a>, Situs ini menyediakan berbagai font dari yang berbayar sampai gratis, namun fokus dari situs ini yaitu font yang 100% gratis.</p><p>Tampilan dari situs ini cukup menarik dan informatif karena kalian bisa menggunakan filter lisensi sehingga tidak perlu khawatir salah mengunduh jenis font.</p><h3 id="FontSpace"><a href="#FontSpace" class="headerlink" title="FontSpace"></a>FontSpace</h3><p><a href="https://www.fontspace.com/new/fonts">FontSpace</a> adalah situs penyedia font yang sangat unik dan keren, di situs ini kalian bisa mencari font yang benar-benar gratis dengan filter pencarian di situs ini.</p><p>Begitu juga font yang tersedia di situs ini cukup berkualitas dan unik, <a href="https://www.fontspace.com/wepfont">wepfont</a> adalah salah satu kreator yang menyediakan banyak font dengan lisensi 100% free.</p><h3 id="Penutup"><a href="#Penutup" class="headerlink" title="Penutup"></a>Penutup</h3><p>Dimana <code>Dafont</code>? Kok gak masuk daftar diatas?<br>Saya tidak memasukkan dafont didalam daftar karena informasi tentang lisensi di dafont masih sangat minim.</p><p>Saya pernah melihat font dengan lisensi 100% Free namun didalam informasi yang kreator tulis beda, hanya boleh untuk personal.<br>Selain itu banyak kreator disana yang tidak memberikan info lebih lanjut terhadap font yang mereka publish.</p><p>Sampai disini dulu pembahasan saya, jika ada kesalahan kata atau informasi di artikel ini, tolong segera beri tahu saya,</p><p>Jangan lupa berikan komentar kalian terhadap rekomendasi saya</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Jika kalian sering menggunakan font kustom yang diunduh dari internet, maka harus berhati-hati! Kalian harus memperhatikan lisensinya, jangan mentang-mentang ada tulisan gratis lalu bisa bebas digunakan.&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Desain" scheme="http://krisnaxda.xyz/categories/Desain/"/>
+    
+      <category term="Font" scheme="http://krisnaxda.xyz/categories/Desain/Font/"/>
+    
+    
+      <category term="Font" scheme="http://krisnaxda.xyz/tags/Font/"/>
+    
+      <category term="Desain" scheme="http://krisnaxda.xyz/tags/Desain/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Memasang Banyak Font Sekaligus di Linux Mint</title>
+    <link href="http://krisnaxda.xyz/Memasang-Font-di-Linux-Mint/"/>
+    <id>http://krisnaxda.xyz/Memasang-Font-di-Linux-Mint/</id>
+    <published>2020-06-18T11:18:16.979Z</published>
+    <updated>2020-06-19T03:50:06.507Z</updated>
+    
+    <content type="html"><![CDATA[<p>Salah satu hal utama bagi para desainer grafis adalah memilih dan menggunakan font secara tepat. Namun pada distro <code>Linux Mint Mate</code> saya mengalami beberapa kendala saat memasang / menginstall font.</p><p>Beberapa kendala yang saya alami saat memasang font dengan yaitu proses pemasangan yang agak lama, Mate Font Viewer tidak memberikan alert ketika font sudah terpasang, tidak bisa memasang font lebih dari 1 secara langsung.</p><a id="more"></a><p>Tapi setelah 5 menit saya mencoba mencari-cari letak folder font, akhirnya saya menemukan solusi dari semua masalah tersebut.</p><h3 id="Memasang-Font-Secara-Manual"><a href="#Memasang-Font-Secara-Manual" class="headerlink" title="Memasang Font Secara Manual"></a>Memasang Font Secara Manual</h3><p>Maksud dari memasang font secara manual adalah memasang font tanpa menggunakan bantuan font viewer seperti Mate Font Viewer<br>Bagaimana caranya? Simak dibawah ini.</p><p>Pertama - tama siapkan font yang akan dipasang, lalu buka file manajer kalian. Lalu arahkan direktori file manajer ke <code>/home/user</code> seperti gambar dibawah. <code>User</code> adalah nama user kalian.</p><p><img src="/Memasang-Font-di-Linux-Mint/gambar1.png" alt="/home/user" title="/home/user"></p><p>Lalu setelah itu, buka folder <code>.local</code>, pastikan opsi show hidden folders aktif, jika tidak maka folder .local tidak akan muncul.</p><p>Di dalam .local terdapat folder <code>share</code>, kalian buka saja, kemudian pilih folder <code>fonts</code>. Jadi nantinya seperti ini <code>/home/user/.local/share/fonts</code>.</p><p><img src="/Memasang-Font-di-Linux-Mint/gambar2.png" alt="/home/user/.local/share/fonts" title="/home/user/.local/share/fonts"></p><p>Setelah itu kalian tinggal copy font yang akan di install lalu paste pada folder tersebut.<br>Kalian juga bisa memasang banyak font dengan cara ini, cukup pilih font mana yang akan dipasang, lalu salin di folder tersebut.</p><p><strong><strong>Catatan</strong></strong></p><p>Cara ini bisa kalian lakukan di ubuntu, dan beberapa distro turunan ubuntu.</p><p>Sampai disini saja pembahasannya, jika ada pertanyaan langsung saja tanya di kolom komentar dibawah, terima kasih telah membaca.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Salah satu hal utama bagi para desainer grafis adalah memilih dan menggunakan font secara tepat. Namun pada distro &lt;code&gt;Linux Mint Mate&lt;/code&gt; saya mengalami beberapa kendala saat memasang / menginstall font.&lt;/p&gt;
+&lt;p&gt;Beberapa kendala yang saya alami saat memasang font dengan yaitu proses pemasangan yang agak lama, Mate Font Viewer tidak memberikan alert ketika font sudah terpasang, tidak bisa memasang font lebih dari 1 secara langsung.&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Desain" scheme="http://krisnaxda.xyz/categories/Desain/"/>
+    
+      <category term="Linux" scheme="http://krisnaxda.xyz/categories/Linux/"/>
+    
+    
+      <category term="Linux Mint" scheme="http://krisnaxda.xyz/tags/Linux-Mint/"/>
+    
+      <category term="Font" scheme="http://krisnaxda.xyz/tags/Font/"/>
+    
+      <category term="Desain" scheme="http://krisnaxda.xyz/tags/Desain/"/>
+    
+  </entry>
+  
+</feed>
