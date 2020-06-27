@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://krisnaxda.xyz/"/>
-  <updated>2020-06-27T01:30:40.104Z</updated>
+  <updated>2020-06-27T03:14:39.320Z</updated>
   <id>http://krisnaxda.xyz/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Cara Mengubah Kuota by.U Instagram Menjadi Kuota Reguler</title>
+    <link href="http://krisnaxda.xyz/mengubah-kuota-byu-instagram/"/>
+    <id>http://krisnaxda.xyz/mengubah-kuota-byu-instagram/</id>
+    <published>2020-06-27T03:14:39.000Z</published>
+    <updated>2020-06-27T03:14:39.320Z</updated>
+    
+    <content type="html"><![CDATA[<p>By.U adalah provider digital pertama yang ada di Indonesia, jika kalian ingin kartu yang tidak ada batas masa aktifnya, by.U adalah jawabannya. by.U menyediakan paket yang berbeda-beda, salah satunya yaitu paket khusus untuk instagram. Kuota untuk instagram itu ternyata bisa diubah menjadi kuota reguler loh.</p><a id="more"></a><blockquote><p>Tutorial Diupdate Juni 2020</p></blockquote><h2 id="Hal-yang-dibutuhkan"><a href="#Hal-yang-dibutuhkan" class="headerlink" title="Hal yang dibutuhkan"></a>Hal yang dibutuhkan</h2><ol><li><b>Aplikasi Wireguard</b> - bisa ditemukan di Google Playstore</li><li><b>Config Wireguard</b> - bisa dibuat gratis di berbagai web</li></ol><h3 id="Buat-Config-Wireguard"><a href="#Buat-Config-Wireguard" class="headerlink" title="Buat Config Wireguard"></a>Buat Config Wireguard</h3><p>Setelah kamu menginstall Wireguard, sekarang yang dibutuhkan adalah config wireguard. Config tersebut bisa kalian buat di berbagai web penyedia layanan vpn gratis seperti fastssh,jagoanssh, oceanssh, dan lainnya.</p><p>Kali ini saya beri petunjuk bagaimana cara membuat config wireguard di <a href="https://www.fastssh.com/page/wireguard-servers/">fastssh.com</a></p><p>Pertama <a href="https://www.fastssh.com/page/wireguard-servers/">buka website ini</a> dan pilih server yang masih tersedia, saya sarankan gunakan server indonesia atau singapura.</p><p><img src="/mengubah-kuota-byu-instagram/server.png" alt="Pilih Server Wireguard" title="Server Wireguard"></p><p>Lalu buat buat config atau akun wireguardnya, nantinya setelah mengisi username dan password config,akan muncul tampilan seperti dibawah ini, kemudian tekan download, untuk mengunduh confignya.</p><p><img src="/mengubah-kuota-byu-instagram/create.png" alt="Tampilan setelah membuat akun" title="Membuat Akun Wireguard"></p><p>Config Wireguard selesai dibuat, sekarang saatnya mengubah config tersebut agar bisa digunakan untuk mengubah kuota instagram by.U ke kuota reguler.</p><h3 id="Mengubah-Config-Wireguard"><a href="#Mengubah-Config-Wireguard" class="headerlink" title="Mengubah Config Wireguard"></a>Mengubah Config Wireguard</h3><p>Buka aplikai wireguard kamu, lalu tambah konfig yang sudah dibuat dibagian bawah app yang bertuliskan <code>import from file or archive</code>, atau kalau mau simpel scan saja barcode yang tertera seperti foto diatas</p><p><img src="/mengubah-kuota-byu-instagram/import-akun-wg.png" alt="Pilih import dari file atau scan barcode" title="mengimport akun wireguard"></p><p>Setelah itu edit config tersebut agar support untuk mengubah kuota instagram menjadi reguler dengan cara menambahkan bug host di bagian endpoint.</p><p><img src="/mengubah-kuota-byu-instagram/edit-endpoint-wg.png" alt="Edit dibagian endpoint" title="mengubah akun wg"></p><p>Tambahkan kode dibawah ini, pada bagian awal endpoint</p><figure class="highlight bash"><figcaption><span>Salin kode ini</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">instagram.fcgk8-1.fna.fbcdn.net.</span><br></pre></td></tr></table></figure><p>hasilnya nanti seperti gambar dibawah ini</p><p><img src="/mengubah-kuota-byu-instagram/akun-wg-support-byu-instagram.png" alt="" title="Config yang sudah bisa dipakai"></p><p>lalu simpan settingan tadi dan coba jalankan config tersebut, lalu cek dengan browsing di google atau buka youtube, selamat! Kuota instagram sudah berubah menjadi kuota reguler.</p><p>Sekian informasi yang bisa saya berikan, silahkan berikan komentar dibawah jika ada kendala atau bagian yang tidak jelas, saya akan membalasnya satu persatu.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;By.U adalah provider digital pertama yang ada di Indonesia, jika kalian ingin kartu yang tidak ada batas masa aktifnya, by.U adalah jawabannya. by.U menyediakan paket yang berbeda-beda, salah satunya yaitu paket khusus untuk instagram. Kuota untuk instagram itu ternyata bisa diubah menjadi kuota reguler loh.&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Android" scheme="http://krisnaxda.xyz/categories/Android/"/>
+    
+    
+      <category term="Jaringan" scheme="http://krisnaxda.xyz/tags/Jaringan/"/>
+    
+      <category term="Tips &amp; Trik" scheme="http://krisnaxda.xyz/tags/Tips-Trik/"/>
+    
+  </entry>
   
   <entry>
     <title>3 Situs Penyedia Blog Gratis dan Simpel</title>
