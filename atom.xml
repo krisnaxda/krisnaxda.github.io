@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://krisnaxda.xyz/"/>
-  <updated>2020-06-27T03:14:39.320Z</updated>
+  <updated>2020-06-28T05:51:58.860Z</updated>
   <id>https://krisnaxda.xyz/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Mencoba Brave Browser yang Mengutamakan Privasi</title>
+    <link href="https://krisnaxda.xyz/mencoba-brave-browser/"/>
+    <id>https://krisnaxda.xyz/mencoba-brave-browser/</id>
+    <published>2020-06-28T05:50:29.000Z</published>
+    <updated>2020-06-28T05:51:58.860Z</updated>
+    
+    <content type="html"><![CDATA[<p>Brave Browser adalah sebuah browser yang mementingkan privasi kepada pengguna yang bersifat sumber terbuka atau opensource. Brave Browser di ketuai oleh Brendan Eich, co-founder dari projek Mozilla dan pencipta JavaScript.</p><p>Brave Browser ini dibangun dengan sumber dari Projek Chromium, mereka mengklaim bahwa privasi sangat penting, dan mereka menjamin setiap aktivitas tracking, iklan, mining akan diblokir. Melihat dari cara promosi mereka, saya penasaran dan ingin mencoba browser tersebut.</p><a id="more"></a><p>Sebelumnya saya selalu menggunakan Chromium karena mudah untuk diintegrasikan ke device lain, dan juga karena bersifat opensource. Jadi saya sangat familiar dengan tombol shortcut, konfigurasi, dan pengaturan yang ada di Brave Browser, karena browser ini dibuat dengan dasar Chromium.</p><h3 id="Brave-Shields"><a href="#Brave-Shields" class="headerlink" title="Brave Shields"></a>Brave Shields</h3><p>Brave Shields merupakan fitur dari Brave Browser yang berguna untuk menjaga privasi pengguna, dan memblokir semua iklan yang menggangu seperti iklan pop up.</p><p>Selain itu ada opsi untuk mengarahkan semua situs yang diakses dari http ke https agar lebih aman, dan juga ada opsi untuk mematikan script agar bisa memblokir cookies.</p><h3 id="Brave-rewards"><a href="#Brave-rewards" class="headerlink" title="Brave rewards"></a>Brave rewards</h3><p>Karena browser ini memblokir semua iklan, lalu mereka berinisiasi untuk mendukung kreator situs web dengan brave rewards.</p><p>Pengguna bisa mengaktifkan fitur ini dan mendukung kreator web dengan memberikan Token BAT yang bisa didapat dengan mengklik iklan dari brave, bukan dari websitenya.</p><p>Token yang kamu dapat bisa diberikan kepada kreator web sebagai bentuk support kamu, atau bisa kamu digunakan sendiri dan menariknya dalam bentuk uang.<br>Fitur ini bisa dimatikan jika kamu tidak tertarik dengan iklan dari Brave.</p><h3 id="Brave-Tor"><a href="#Brave-Tor" class="headerlink" title="Brave Tor"></a>Brave Tor</h3><p>Mau browsing lebih aman? Brave Tor jawabannya, fitur ini menjamin kamu akan terkoneksi di internet lebih aman, sama seperti Tor Browser.</p><p>Karena koneksi kalian tidak terhubung secara langsung ke situs yang dituju, sehingga alamat IP asli kamu tersembunyi. Brave Tor juga bisa digunakan untuk mengakses Dark Web, sama persis seperti Tor Browser.</p><h3 id="Tampilan"><a href="#Tampilan" class="headerlink" title="Tampilan"></a>Tampilan</h3><p>Dari segi tampilan sama saja seperti Chromium namun yang saya suka dari brave adalah adanya opsi <code>dark mode</code> pada pengaturannya, beda dengan Chromium yang tidak menyediakan opsi dark mode.</p><p>Selain itu ada beberapa hal baru, pada homepage tidak lagi ada tampilan search engine yang membosankan seperti Chrome ataupun Firefox.</p><p>Brave mengganti tampilan homepage dengan widget top sites, brave rewards, jam dan dengan wallpaper yang selalu berganti setiap homepage dibuka.</p><h3 id="Kecepatan-amp-Penggunaan"><a href="#Kecepatan-amp-Penggunaan" class="headerlink" title="Kecepatan &amp; Penggunaan"></a>Kecepatan &amp; Penggunaan</h3><p>Brave Browser ini saya anggap sangat cepat untuk memuat halaman di berbagai web, karena dari fitur Brave Shields tadi yang membantu memblokir tracker, iklan, script, dsb.</p><p>Manajemen memori pada brave cukup baik sehingga tidak memakan banyak memori pada komputer saya. Berbeda ketika menggunakan Chrome, saya harus menutup beberapa aplikasi.</p><h3 id="Kekurangan"><a href="#Kekurangan" class="headerlink" title="Kekurangan"></a>Kekurangan</h3><p>Sejauh ini tidak ada kekurangan menurut saya terhadap browser ini, malah menurut saya brave ini sebagai versi sempurnyanya Chromium.</p><p>Meskipun dulu browser ini pernah terlibat masalah karena ketahuan menambah link refferal pada beberapa situs crypto, namun karena sifatnya yang opensource masalah tersebut bisa diselesaikan dengan cepat.</p><h3 id="Dukungan-Sistem-Operasi"><a href="#Dukungan-Sistem-Operasi" class="headerlink" title="Dukungan Sistem Operasi"></a>Dukungan Sistem Operasi</h3><p>Oh iya, brave browser ini tersedia untuk semua platform seperti Android, IOS, Linux, MacOS, dan juga Windows.</p><p>Bagaimana Menurutmu? Berikan komentarmu tentang browser ini.</p><p>Sekian pembahasan saya tentang Brave Browser ini, jika ada kesalahan pada artikel ini tolong beritahu saya pada kolom komentar, atau kontak saya.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Brave Browser adalah sebuah browser yang mementingkan privasi kepada pengguna yang bersifat sumber terbuka atau opensource. Brave Browser di ketuai oleh Brendan Eich, co-founder dari projek Mozilla dan pencipta JavaScript.&lt;/p&gt;
+&lt;p&gt;Brave Browser ini dibangun dengan sumber dari Projek Chromium, mereka mengklaim bahwa privasi sangat penting, dan mereka menjamin setiap aktivitas tracking, iklan, mining akan diblokir. Melihat dari cara promosi mereka, saya penasaran dan ingin mencoba browser tersebut.&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Review" scheme="https://krisnaxda.xyz/categories/Review/"/>
+    
+    
+      <category term="Software" scheme="https://krisnaxda.xyz/tags/Software/"/>
+    
+      <category term="Brave Browser" scheme="https://krisnaxda.xyz/tags/Brave-Browser/"/>
+    
+  </entry>
   
   <entry>
     <title>Cara Mengubah Kuota by.U Instagram Menjadi Kuota Reguler</title>
